@@ -1,0 +1,24 @@
+{
+  "author": "Dylan Armstrong <dylan@dylan.is>",
+  "bugs": {
+    "url": "https://github.com/dylanarmstrong/tsconfig/issues"
+  },
+  "description": "Shared TypeScript config for my projects",
+  "engines": {
+    "node": ">16.0.0"
+  },
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "homepage": "https://github.com/dylanarmstrong/tsconfig",
+  "license": "ISC",
+  "name": "@dylanarmstrong/tsconfig",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanarmstrong/tsconfig"
+  },
+  "type": "module",
+  "version": "0.0.1"
+}
